@@ -10,12 +10,12 @@ We propose Curiosity Cross-Entropy Method **(CCEM)**, an improved version of CEM
 # Citation
 cite the paper as follows:
 ```
-@article{Kotb2023ccem,
-  title={Sample-efficient Real-time Planning with Curiosity Cross-Entropy Method and Contrastive Learning},
-  author={Mostafa Kotb and Cornelius Weber and Stefan Wermter},
-  eprint={2303.03787},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG},
-  year={2023}
+@inproceedings{kotb2023sample,
+  title={Sample-efficient real-time planning with curiosity cross-entropy method and contrastive learning},
+  author={Kotb, Mostafa and Weber, Cornelius and Wermter, Stefan},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={9456--9463},
+  year={2023},
+  organization={IEEE}
 }
 ```
